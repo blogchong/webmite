@@ -1,0 +1,13 @@
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=210500%3B160400%3B160000%3B160500%3B160200%3B300100%3B160100%3B160600&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=180000%3B180100%3B300500%3B300900&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=140000%3B140100%3B140200&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=200300%3B200302%3B201400%3B201300%3B300300&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=120400%3B120200%3B170500%3B170000%3B300700&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=201100%3B120800&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=121000%3B129900%3B121100%3B121200%3B210600%3B120700%3B121300%3B121500%3B300000&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=150000%3B301100&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=121400%3B200600%3B200800&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=210300%3B200700&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=130000%3B120500%3B130100%3B201200&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=200100%3B120600&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
+http://sou.zhaopin.com/jobs/searchresult.ashx?in=100000%3B100100%3B990000&jl=%E9%80%89%E6%8B%A9%E5%9C%B0%E5%8C%BA&sm=0&p=1&sf=0&st=99999&cs=1&isadv=1
